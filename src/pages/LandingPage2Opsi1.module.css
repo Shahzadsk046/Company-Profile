@@ -1,0 +1,637 @@
+.landingPage2Opsi1Child,
+.landingPage2Opsi1Item {
+  position: absolute;
+  top: 100px;
+  left: 225px;
+  background-color: var(--color-white);
+  width: 410px;
+  height: 620px;
+}
+.landingPage2Opsi1Item {
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1280px;
+}
+.weCode {
+  margin: 0;
+}
+.weCodeWeContainer {
+  position: absolute;
+  top: 227px;
+  left: 108px;
+  font-size: var(--font-size-45xl);
+  line-height: 72px;
+  font-weight: 600;
+}
+.twiscodeSpecializesInContainer {
+  position: absolute;
+  top: 422px;
+  left: 169px;
+  line-height: 24px;
+  font-weight: 300;
+}
+.twiscodeTwiscodeAndreetwiscContainer,
+.workServiceContainer {
+  position: absolute;
+  top: 3535px;
+  left: 579px;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.twiscodeTwiscodeAndreetwiscContainer {
+  top: 3525px;
+  left: 990px;
+  line-height: 45px;
+}
+.landingPage2Opsi1Inner {
+  position: absolute;
+  top: 3721px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0-2px 4px rgba(0, 0, 0, 0.1);
+  width: 1280px;
+  height: 98px;
+}
+.company,
+.contactUs,
+.location,
+.twiscodePteLtd {
+  position: absolute;
+  top: 3463px;
+  left: 201px;
+  font-size: var(--font-size-5xl);
+  line-height: 72px;
+  font-weight: 600;
+}
+.company,
+.contactUs,
+.twiscodePteLtd {
+  top: 3734px;
+  left: 108px;
+  font-size: var(--font-size-lg);
+}
+.company,
+.contactUs {
+  top: 3463px;
+  left: 579px;
+  font-size: var(--font-size-5xl);
+}
+.contactUs {
+  left: 950px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 3540px;
+  left: 108px;
+  width: 360px;
+  height: 148px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 3552px;
+  left: 122px;
+  background-color: var(--color-white);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 220px;
+  height: 75px;
+}
+.jlKayoonSurabaya,
+.twiscode2 {
+  position: absolute;
+  top: 3544px;
+  left: 142px;
+  font-size: var(--font-size-5xl);
+  line-height: 72px;
+  font-weight: 600;
+}
+.jlKayoonSurabaya {
+  top: 3572px;
+  font-size: var(--font-size-xs);
+}
+.landingPage2Opsi1Child1,
+.landingPage2Opsi1Child2 {
+  position: absolute;
+  top: 3535px;
+  left: 953px;
+  border-radius: var(--br-8xs);
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.landingPage2Opsi1Child2 {
+  top: 3581px;
+  left: 955px;
+}
+.landingPage2Opsi1Child3,
+.vectorIcon {
+  position: absolute;
+  top: 3627px;
+  left: 954px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.vectorIcon {
+  top: 121.75px;
+  left: 590.55px;
+  width: 731.47px;
+  height: 570.59px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 439px;
+  left: 109px;
+  border-radius: 50%;
+  background-color: var(--color-lightgreen);
+  box-shadow: 0 0 20px #9fd685;
+  width: 35px;
+  height: 35px;
+}
+.mdiPlayArrowIcon {
+  position: absolute;
+  top: 444px;
+  left: 115px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.landingPage2Opsi1Child4 {
+  position: absolute;
+  top: 842px;
+  left: 183px;
+  border-radius: var(--br-3xs);
+  width: 440px;
+  height: 517px;
+  object-fit: cover;
+}
+.landingPage2Opsi1Child5 {
+  position: absolute;
+  top: 868px;
+  left: 430px;
+  background-color: var(--color-white);
+  width: 163px;
+  height: 60px;
+}
+.viewDetail {
+  position: absolute;
+  top: 862px;
+  left: 462px;
+  font-size: var(--font-size-lg);
+  line-height: 72px;
+  color: var(--color-black);
+}
+.landingPage2Opsi1Child6 {
+  position: absolute;
+  top: 1481px;
+  left: 560px;
+  width: 720px;
+  height: 405px;
+  object-fit: cover;
+}
+.landingPage2Opsi1Child7 {
+  position: absolute;
+  top: 1538px;
+  left: 224px;
+  background-color: var(--color-white);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  width: 508px;
+  height: 283px;
+}
+.howWeWork {
+  position: absolute;
+  top: 1566px;
+  left: 275px;
+  font-size: var(--font-size-17xl);
+  line-height: 72px;
+  font-weight: 600;
+  display: inline-block;
+  width: 498px;
+}
+.letsDiscussWhatContainer {
+  position: absolute;
+  top: 1642px;
+  left: 275px;
+  font-size: var(--font-size-lg);
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.landingPage2Opsi1Child8 {
+  position: absolute;
+  top: 1736px;
+  left: 275px;
+  background-color: var(--color-darkslategray-100);
+  width: 203px;
+  height: 60px;
+}
+.letsHaveA {
+  position: absolute;
+  top: 1750px;
+  left: 309px;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.andreeWijaya,
+.ceocto,
+.ourTeam {
+  position: absolute;
+  top: 2575px;
+  left: 527px;
+  font-size: var(--font-size-17xl);
+  line-height: 72px;
+  font-weight: 600;
+}
+.andreeWijaya,
+.ceocto {
+  top: 2955px;
+  left: 528px;
+  font-size: var(--font-size-5xl);
+}
+.ceocto {
+  top: 2997px;
+  left: 561px;
+  color: var(--color-darkgray);
+}
+.elisabethBe {
+  top: 2929px;
+  left: 269px;
+}
+.cfo,
+.coo,
+.elisabethBe,
+.sanjayaWahono {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+  line-height: 72px;
+  font-weight: 600;
+}
+.coo {
+  top: 2971px;
+  left: 304px;
+  color: var(--color-darkgray);
+}
+.cfo,
+.sanjayaWahono {
+  top: 2929px;
+  left: 816px;
+}
+.cfo {
+  top: 2971px;
+  left: 890px;
+  color: var(--color-darkgray);
+}
+.maskGroupIcon {
+  position: absolute;
+  top: 2697px;
+  left: 253px;
+  width: 753px;
+  height: 250px;
+  object-fit: cover;
+}
+.groupIcon {
+  position: absolute;
+  top: 3099px;
+  left: 576px;
+  width: 83px;
+  height: 10px;
+}
+.ourCustomersAreContainer {
+  position: absolute;
+  top: 2042px;
+  left: 456px;
+  font-size: var(--font-size-17xl);
+  line-height: 45px;
+  font-weight: 600;
+  text-align: center;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 2188px;
+  left: 235px;
+  width: 136px;
+  height: 71px;
+  object-fit: cover;
+}
+.image2Icon {
+  top: 2186px;
+  left: 387px;
+  width: 209px;
+  height: 73px;
+}
+.image3Icon,
+.image4Icon,
+.image5Icon,
+.image6Icon {
+  position: absolute;
+  top: 2193px;
+  left: 630px;
+  width: 120px;
+  height: 60.5px;
+  object-fit: cover;
+}
+.image4Icon,
+.image5Icon,
+.image6Icon {
+  top: 2188px;
+  left: 784px;
+  height: 73.56px;
+}
+.image5Icon,
+.image6Icon {
+  top: 2173px;
+  left: 932px;
+  height: 97.1px;
+}
+.image6Icon {
+  top: 2275px;
+  left: 417px;
+  width: 156px;
+  height: 80px;
+}
+.seeMore {
+  position: absolute;
+  top: 2487px;
+  left: 607px;
+  line-height: 45px;
+  color: var(--color-dimgray);
+  text-align: center;
+  display: inline-block;
+  width: 66px;
+  height: 38px;
+}
+.joinOurTeam {
+  position: absolute;
+  top: 3164px;
+  left: 219px;
+  font-size: var(--font-size-17xl);
+  line-height: 72px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.landingPage2Opsi1Child9 {
+  position: absolute;
+  top: 3253px;
+  left: 217px;
+  width: 400px;
+  height: 130px;
+  object-fit: cover;
+}
+.loremIpsumDolor {
+  position: absolute;
+  top: 3209px;
+  left: 668px;
+  line-height: 20px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 380px;
+  height: 139px;
+}
+.landingPage2Opsi1Child10 {
+  position: absolute;
+  top: 3333px;
+  left: 666px;
+  background-color: var(--color-darkslategray-200);
+  width: 150px;
+  height: 50px;
+}
+.apply {
+  top: 3322px;
+  left: 714px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.apply,
+.mobileApplication,
+.whatWeDo {
+  position: absolute;
+  line-height: 72px;
+  font-weight: 600;
+}
+.whatWeDo {
+  top: 844px;
+  left: 701px;
+  font-size: var(--font-size-17xl);
+}
+.mobileApplication {
+  top: 901px;
+  left: 707px;
+}
+.mdiAndroidIcon {
+  position: absolute;
+  top: 929px;
+  left: 673px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.buildingMobileApplicationsContainer {
+  position: absolute;
+  top: 951px;
+  left: 707px;
+  font-size: var(--font-size-xs);
+  line-height: 24px;
+  font-family: var(--font-roboto);
+  color: var(--color-dimgray);
+}
+.webApplication {
+  position: absolute;
+  top: 1040px;
+  left: 703px;
+  line-height: 72px;
+  font-weight: 600;
+}
+.weCanBuildContainer {
+  position: absolute;
+  top: 1091px;
+  left: 703px;
+  font-size: var(--font-size-xs);
+  line-height: 24px;
+  font-family: var(--font-roboto);
+  color: var(--color-dimgray);
+}
+.uiuxDesign {
+  position: absolute;
+  top: 1203px;
+  left: 701px;
+  line-height: 72px;
+  font-weight: 600;
+}
+.allThingsAreContainer {
+  position: absolute;
+  top: 1253px;
+  left: 701px;
+  font-size: var(--font-size-xs);
+  line-height: 24px;
+  font-family: var(--font-roboto);
+  color: var(--color-dimgray);
+}
+.mdiViewQuiltIcon,
+.mdiWebIcon {
+  position: absolute;
+  top: 1068px;
+  left: 673px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.mdiViewQuiltIcon {
+  top: 1231px;
+}
+.hubbleIcon,
+.incomeIcon,
+.lazadaIcon,
+.unairIcon {
+  position: absolute;
+  top: 2274px;
+  left: 235px;
+  width: 152px;
+  height: 82px;
+  object-fit: cover;
+}
+.incomeIcon,
+.lazadaIcon,
+.unairIcon {
+  top: 2360px;
+  width: 164px;
+  height: 97px;
+}
+.lazadaIcon,
+.unairIcon {
+  top: 2369px;
+  left: 424px;
+  width: 135px;
+  height: 83px;
+}
+.unairIcon {
+  top: 2363px;
+  left: 597px;
+  width: 204px;
+  height: 92px;
+}
+.cbnIcon,
+.ciputraIcon,
+.jawaPosIcon {
+  position: absolute;
+  top: 2370px;
+  left: 824px;
+  width: 228px;
+  height: 79px;
+  object-fit: cover;
+}
+.cbnIcon,
+.ciputraIcon {
+  top: 2261px;
+  left: 628px;
+  width: 162px;
+  height: 105px;
+}
+.ciputraIcon {
+  top: 2274px;
+  left: 827px;
+  width: 212px;
+  height: 75px;
+}
+.landingPage2Opsi1Child11 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 640px);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.02);
+  width: 1280px;
+  height: 100px;
+}
+.landingPage2Opsi1Child12,
+.logoTwiscode3 {
+  position: absolute;
+  top: 67.5px;
+  left: calc(50% - 95px);
+  width: 29px;
+  height: 1px;
+}
+.logoTwiscode3 {
+  top: 20px;
+  left: calc(50% - 531px);
+  width: 120px;
+  height: 60px;
+  object-fit: cover;
+}
+.career,
+.contact1,
+.home,
+.ourCustomer,
+.service1,
+.team1,
+.work1 {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 96px);
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 43px;
+  height: 12px;
+}
+.career,
+.contact1,
+.ourCustomer,
+.service1,
+.team1,
+.work1 {
+  left: calc(50% - 21px);
+  width: 39px;
+}
+.career,
+.contact1,
+.ourCustomer,
+.service1,
+.team1 {
+  left: calc(50% + 49px);
+  width: 52px;
+}
+.career,
+.contact1,
+.ourCustomer,
+.team1 {
+  left: calc(50% + 132px);
+  width: 100px;
+}
+.career,
+.contact1,
+.team1 {
+  left: calc(50% + 253px);
+  width: 45px;
+}
+.career,
+.contact1 {
+  left: calc(50% + 327px);
+  width: 52px;
+}
+.contact1 {
+  left: calc(50% + 407px);
+  width: 59px;
+}
+.searchIcon {
+  position: absolute;
+  top: 40px;
+  left: calc(50% + 530px);
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.landingPage2Opsi1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3819px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-poppins);
+}

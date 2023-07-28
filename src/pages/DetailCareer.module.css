@@ -1,0 +1,262 @@
+.detailCareerChild {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1280px;
+  height: 120px;
+}
+.frontEndDeveloper {
+  position: absolute;
+  top: 152px;
+  left: 459px;
+  font-size: var(--font-size-17xl);
+  line-height: 16px;
+  font-weight: 500;
+}
+.requirements {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.blankLine {
+  margin: 0;
+}
+.requirementsContainer {
+  position: absolute;
+  top: 307px;
+  left: 110px;
+  line-height: 30px;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 476px;
+}
+.detailCareerInner,
+.detailCareerItem {
+  position: absolute;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+}
+.detailCareerItem {
+  top: 303px;
+  left: 660px;
+  border-radius: 20px;
+  width: 520px;
+  height: 505px;
+}
+.detailCareerInner {
+  top: 418px;
+  left: 695px;
+  border-radius: var(--br-3xs);
+  width: 450px;
+  height: 40px;
+}
+.submitYourApplication {
+  position: absolute;
+  top: 340px;
+  left: 774px;
+  font-size: var(--font-size-5xl);
+  line-height: 16px;
+  font-weight: 500;
+}
+.fullName {
+  top: 391px;
+  line-height: 16px;
+}
+.email,
+.fullName,
+.rectangleDiv {
+  position: absolute;
+  left: 695px;
+}
+.rectangleDiv {
+  top: 509px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 450px;
+  height: 40px;
+}
+.email {
+  top: 482px;
+  line-height: 16px;
+  text-align: left;
+}
+.detailCareerChild1 {
+  top: 598px;
+  left: 696px;
+  background-color: var(--color-white);
+  width: 450px;
+  height: 40px;
+}
+.detailCareerChild1,
+.detailCareerChild2,
+.detailCareerChild3,
+.detailCareerChild4 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  border: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+}
+.detailCareerChild2 {
+  top: 723px;
+  left: 696px;
+  background: linear-gradient(89.98deg, #414141, rgba(68, 64, 64, 0));
+  width: 450px;
+  height: 50px;
+}
+.detailCareerChild3,
+.detailCareerChild4 {
+  top: 660px;
+  height: 40px;
+}
+.detailCareerChild3 {
+  left: 696px;
+  background-color: var(--color-white);
+  width: 450px;
+}
+.detailCareerChild4 {
+  left: 1045px;
+  background-color: #e5e5e5;
+  width: 100px;
+}
+.phone {
+  top: 571px;
+  left: 696px;
+}
+.attachYourResumecv,
+.browse,
+.phone,
+.submit {
+  position: absolute;
+  line-height: 16px;
+  text-align: left;
+}
+.submit {
+  top: 740px;
+  left: 895px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.attachYourResumecv,
+.browse {
+  top: 672px;
+}
+.attachYourResumecv {
+  left: 714px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray);
+}
+.browse {
+  left: 1067px;
+}
+.detailCareerChild5 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 640px);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.02);
+  width: 1280px;
+  height: 100px;
+}
+.logoTwiscode5,
+.vectorIcon {
+  position: absolute;
+  top: 67.5px;
+  left: calc(50% - 95px);
+  width: 29px;
+  height: 1px;
+}
+.logoTwiscode5 {
+  top: 20px;
+  left: calc(50% - 531px);
+  width: 120px;
+  height: 60px;
+  object-fit: cover;
+}
+.career,
+.contact,
+.home,
+.ourCustomer,
+.service,
+.team,
+.work {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 96px);
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+  width: 43px;
+  height: 12px;
+}
+.career,
+.contact,
+.ourCustomer,
+.service,
+.team,
+.work {
+  left: calc(50% - 21px);
+  width: 39px;
+}
+.career,
+.contact,
+.ourCustomer,
+.service,
+.team {
+  left: calc(50% + 49px);
+  width: 52px;
+}
+.career,
+.contact,
+.ourCustomer,
+.team {
+  left: calc(50% + 132px);
+  width: 100px;
+}
+.career,
+.contact,
+.team {
+  left: calc(50% + 253px);
+  width: 45px;
+}
+.career,
+.contact {
+  left: calc(50% + 327px);
+  width: 52px;
+}
+.contact {
+  left: calc(50% + 407px);
+  width: 59px;
+}
+.searchIcon {
+  position: absolute;
+  top: 40px;
+  left: calc(50% + 530px);
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.logoTwiscode6 {
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 531px);
+  width: 120px;
+  height: 60px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.detailCareer {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 983px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

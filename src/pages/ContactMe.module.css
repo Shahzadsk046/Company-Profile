@@ -1,0 +1,32 @@
+.pleaseContactMe {
+  display: inline-block;
+  width: 795px;
+}
+.aprirandiigmailcom,
+.pleaseContactMe {
+  position: relative;
+  line-height: 150%;
+}
+.aprirandiigmailcomWrapper {
+  border-radius: var(--br-31xl);
+  background-color: var(--color-crimson);
+  display: flex;
+  flex-direction: row;
+  padding: 8px 30px;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+}
+.contactMe {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 41px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-crimson);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,180 @@
+.careerChild {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1280px;
+  height: 120px;
+}
+.career1 {
+  position: absolute;
+  top: 152px;
+  left: 578px;
+  font-size: var(--font-size-17xl);
+  line-height: 16px;
+  font-weight: 500;
+}
+.frontEnd1Icon,
+.mobileDevelopment1Icon,
+.project1Icon,
+.qc1Icon,
+.seoAndWeb1Icon {
+  position: absolute;
+  top: 370px;
+  left: 185px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.mobileDevelopment1Icon,
+.project1Icon,
+.qc1Icon,
+.seoAndWeb1Icon {
+  left: 564px;
+}
+.mobileDevelopment1Icon,
+.project1Icon,
+.qc1Icon {
+  left: 947px;
+}
+.project1Icon,
+.qc1Icon {
+  top: 819px;
+  left: 574px;
+}
+.qc1Icon {
+  top: 780px;
+  left: 920px;
+  width: 208px;
+  height: 213px;
+}
+.devops1Icon,
+.python1Icon,
+.ui1Icon {
+  position: absolute;
+  top: 1269px;
+  left: 185px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.devops1Icon,
+.ui1Icon {
+  top: 807px;
+  left: 160px;
+  width: 190px;
+  height: 190px;
+}
+.ui1Icon {
+  top: 1279px;
+  left: 574px;
+  width: 164px;
+  height: 138px;
+}
+.careerItem {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 640px);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.02);
+  width: 1280px;
+  height: 100px;
+}
+.careerInner,
+.logoTwiscode5 {
+  position: absolute;
+  top: 67.5px;
+  left: calc(50% - 95px);
+  width: 29px;
+  height: 1px;
+}
+.logoTwiscode5 {
+  top: 20px;
+  left: calc(50% - 531px);
+  width: 120px;
+  height: 60px;
+  object-fit: cover;
+}
+.career2,
+.contact,
+.home,
+.ourCustomer,
+.service,
+.team,
+.work {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 96px);
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+  width: 43px;
+  height: 12px;
+}
+.career2,
+.contact,
+.ourCustomer,
+.service,
+.team,
+.work {
+  left: calc(50% - 21px);
+  width: 39px;
+}
+.career2,
+.contact,
+.ourCustomer,
+.service,
+.team {
+  left: calc(50% + 49px);
+  width: 52px;
+}
+.career2,
+.contact,
+.ourCustomer,
+.team {
+  left: calc(50% + 132px);
+  width: 100px;
+}
+.career2,
+.contact,
+.team {
+  left: calc(50% + 253px);
+  width: 45px;
+}
+.career2,
+.contact {
+  left: calc(50% + 327px);
+  width: 52px;
+}
+.contact {
+  left: calc(50% + 407px);
+  width: 59px;
+}
+.searchIcon {
+  position: absolute;
+  top: 40px;
+  left: calc(50% + 530px);
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.logoTwiscode6 {
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 531px);
+  width: 120px;
+  height: 60px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.career {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1759px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

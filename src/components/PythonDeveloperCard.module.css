@@ -1,0 +1,101 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 335px;
+  height: 400px;
+}
+.groupItem {
+  position: absolute;
+  top: 291px;
+  left: 43px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-darkslategray-100);
+  width: 250px;
+  height: 50px;
+}
+.apply,
+.phytonDeveloper,
+.seeDetail {
+  position: absolute;
+  line-height: 16px;
+  font-weight: 600;
+  display: inline-block;
+  width: 81px;
+  height: 12px;
+}
+.apply {
+  top: 310px;
+  left: calc(50% - 230px);
+  color: var(--color-white);
+}
+.phytonDeveloper,
+.seeDetail {
+  top: 362px;
+  left: calc(50% - 231px);
+}
+.phytonDeveloper {
+  top: 39px;
+  left: calc(50% - 288px);
+  font-size: var(--font-size-lg);
+  width: 196px;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 381px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 335px;
+  height: 400px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 291px;
+  left: 424px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-darkslategray-100);
+  width: 250px;
+  height: 50px;
+}
+.apply1,
+.seeDetail1,
+.uixDesigner {
+  position: absolute;
+  line-height: 16px;
+  font-weight: 600;
+  display: inline-block;
+  width: 81px;
+  height: 12px;
+}
+.apply1 {
+  top: 310px;
+  left: calc(50% + 151px);
+  color: var(--color-white);
+}
+.seeDetail1,
+.uixDesigner {
+  top: 362px;
+  left: calc(50% + 150px);
+}
+.uixDesigner {
+  top: 39px;
+  left: calc(50% + 93px);
+  font-size: var(--font-size-lg);
+  width: 196px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1176px;
+  left: 94px;
+  width: 716px;
+  height: 400px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}
